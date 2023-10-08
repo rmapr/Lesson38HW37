@@ -6,6 +6,7 @@ public class Task1 {
     // test2
     public static void main(String[] args) {
         System.out.println("task1");
+//Add row for testing git
     }
 
 }
