@@ -7,10 +7,9 @@ public class Task1 {
     public static void main(String[] args) {
         System.out.println("task1");
 //Add row for testing git
-
-
 //Add branch 1
 //add row in branch br1
+//master
     }
 
 }
